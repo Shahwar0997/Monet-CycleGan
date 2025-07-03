@@ -13,7 +13,7 @@ CycleGAN enables image-to-image translation without paired data by leveraging ad
 
 ## Data Source
 
-The dataset used in this project is sourced from the [Kaggle "I'm somewhat of a painter myself" competition](https://www.kaggle.com/competitions/i-m-somewhat-of-a-painter-myself/data), which includes real landscape photos and Monet paintings.
+The dataset used in this project is sourced from the [Kaggle "I'm somewhat of a painter myself" competition]([https://www.kaggle.com/competitions/gan-getting-started/overview]), which includes real landscape photos and Monet paintings.
 
 ---
 
